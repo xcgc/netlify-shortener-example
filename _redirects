@@ -1,3 +1,4 @@
 # Redirects from what the browser requests to what we serve
 /google             https://google.com
 /youtube            https://youtube.com
+/discord            https://discord.com/app
